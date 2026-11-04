@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Та же геометрия, что в scripts/make-icons.ps1: лист недели с сеткой и двумя блоками. -->
+  <rect width="512" height="512" rx="112" fill="#2f6fed"/>
+  <rect x="96" y="128" width="320" height="256" rx="22" fill="#fff"/>
+  <g stroke="#c9d0da" stroke-width="6">
+    <path d="M96 176H416M148 176V384M215 176V384M282 176V384M349 176V384"/>
+  </g>
+  <g stroke="#e1e5ea" stroke-width="4">
+    <path d="M148 228H416M148 280H416M148 332H416"/>
+  </g>
+  <rect x="220" y="184" width="57" height="88" rx="10" fill="#2f6fed"/>
+  <rect x="354" y="236" width="57" height="88" rx="10" fill="#f4b740"/>
+</svg>
